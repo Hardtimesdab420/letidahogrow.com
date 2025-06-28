@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Let Idaho Grow - Legalize Marijuana in Idaho</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f4fff4;
+      color: #1a1a1a;
+    }
+    header {
+      background-color: #228B22;
+      color: white;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 800px;
+      margin: auto;
+      line-height: 1.6;
+    }
+    .btn {
+      background: #32CD32;
+      color: white;
+      padding: 12px 24px;
+      border: none;
+      border-radius: 8px;
+      font-size: 16px;
+      cursor: pointer;
+      text-decoration: none;
+      display: inline-block;
+      margin-top: 20px;
+    }
+    footer {
+      background: #eee;
+      text-align: center;
+      padding: 20px;
+      font-size: 14px;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Let Idaho Grow</h1>
+  <p>Support the movement to legalize marijuana in Idaho</p>
+  <nav>
+    <a href="#why">Why Legalize?</a>
+    <a href="#petition">Petition</a>
+    <a href="#contact">Contact</a>
+  </nav>
+</header>
+
+<section id="why">
+  <h2>Why Legalize Marijuana in Idaho?</h2>
+  <ul>
+    <li>✅ Boost the state economy</li>
+    <li>✅ Help patients access safe medicine</li>
+    <li>✅ Reduce arrests for non-violent cannabis offenses</li>
+    <li>✅ Respect personal freedom and choice</li>
+  </ul>
+</section>
+
+<section id="petition">
+  <h2>Sign the Petition</h2>
+  <p>Be a part of the change. Your voice matters.</p>
+  <a href="https://example.com/petition" class="btn">Sign Now</a>
+</section>
+
+<section id="contact">
+  <h2>Contact the Movement</h2>
+  <p>Email: <a href="mailto:info@letidahogrow.com">info@letidahogrow.com</a></p>
+  <p>Follow us on Instagram, X, and Facebook.</p>
+</section>
+
+<footer>
+  &copy; 2025 Let Idaho Grow. All rights reserved.
+</footer>
+
+</body>
+</html>
